@@ -1,0 +1,30 @@
+{
+  "name": "adjective-adjective-animal-lite",
+  "version": "1.0.0",
+  "description": "Suitably random and reasonably unique human readable (and fairly adorable) ids",
+  "main": "./index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexmeah/adjective-adjective-animal-lite.git"
+  },
+  "keywords": [
+    "random",
+    "id",
+    "animal",
+    "adjective",
+    "name",
+    "url"
+  ],
+  "author": "Alex Meah",
+  "license": "MIT",
+  "homepage": "https://github.com/alexmeah/adjective-adjective-animal-lite",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "random-int": "^2.0.0"
+  }
+}
